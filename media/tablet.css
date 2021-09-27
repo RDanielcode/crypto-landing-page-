@@ -1,0 +1,22 @@
+@media (min-width: 930px) {
+  .benefits {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+  }
+  .benefits__info {
+    padding: 0;
+    height: 130px;
+    margin-bottom: 0px;
+  }
+  .benefits__card {
+    margin: 10px;
+  }
+}
+/*# sourceMappingURL=tablet.css.map */

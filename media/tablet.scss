@@ -1,0 +1,15 @@
+@media (min-width: 930px){
+    .benefits{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        &__info{
+            padding: 0;
+            height: 130px;
+            margin-bottom: 0px;
+        }
+        &__card{
+            margin: 10px;
+        }
+    }
+}
